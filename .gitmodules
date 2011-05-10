@@ -1,0 +1,3 @@
+[submodule "leveldb-c"]
+	path = leveldb-c
+	url = https://github.com/sanxiyn/leveldb-c.git
